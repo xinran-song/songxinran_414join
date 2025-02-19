@@ -31,7 +31,7 @@
 ### ![图片](C:\Users\木斤斤\Desktop.jpg)
 
 ## 2.3题
-### ![下午茶系列](C:\Users\木斤斤\Desktop.jpg)
+### ![下午茶系列](https://github.com/xinran-song/songxinran_414join/blob/main/%E4%B8%8B%E5%8D%88%E8%8C%B6%E7%B3%BB%E5%88%97.jpg)
 ### 设计思路
 
 这张下午茶系列的渲染图旨在营造一个温馨、舒适的下午茶场景，通过丰富的细节和材质表现，增强画面的真实感和视觉吸引力。设计思路围绕以下几个方面展开：
